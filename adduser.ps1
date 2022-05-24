@@ -1,0 +1,1 @@
+Add-LocalGroupMember -Group "Administrators" -Member "core\avinash.reddy"
